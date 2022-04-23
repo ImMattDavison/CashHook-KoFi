@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "CashHook Admin",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}

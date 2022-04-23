@@ -1,0 +1,16 @@
+{
+  "name": "cashhook/cashhook-kofi",
+  "timeout": 10000,
+  "connector": false,
+  "events": {},
+  "env": [
+    {
+      "name": "DONATION_FLOW_CHANNEL",
+      "description": "The channel ID for the channel where the flow should be posted!"
+    },
+    {
+      "name": "KOFI_TOKEN",
+      "description": "Your verification token for the Ko-Fi.com webhook API!"
+    }
+  ]
+}
