@@ -1,7 +1,7 @@
 # CashHook for Ko-Fi
 ## What is CashHook? 
 
-CashHook is a simple to use and swift setup webhook tool for Ko-Fi, BuyMeACoffee and Patreon. CashHook is a project built for MLH event - The Hackconomist. CashHook was made with the intention of making it easier for creators to make sure their community and monetary supporters feel recognised for what they do.
+CashHook is a simple to use and swift setup webhook tool for the top creator donation platforms. CashHook is a project built for MLH event - The Hackconomist. CashHook was made with the intention of making it easier for creators to make sure their community and monetary supporters feel recognised for what they do.
 
 ## How do I use it?
 
