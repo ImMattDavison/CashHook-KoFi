@@ -13,7 +13,8 @@ CashHook is free and open source, meaning there are no fees to use CashHook, how
 
 ## How do I get my CashHook link in Autocode?
 
-Locating your CashHook is simple, just take a look to the bottom of the page in the autocode editor, your unique CashHook will appear like this: <img src="./cashhook.png">
+Locating your CashHook is simple, just take a look to the bottom of the page in the autocode editor, your unique CashHook will appear like this:
+<img src="./cashhook.png">
 
 ## How do I add my CashHook to Ko-Fi?
 
